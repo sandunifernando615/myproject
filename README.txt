@@ -1,4 +1,1 @@
-value = 10
-
-print ("Hello World!")
-print(value)
+Hello,This is my first git repo!
